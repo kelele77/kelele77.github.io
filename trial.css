@@ -1,0 +1,56 @@
+body{
+    background-image: url(drops.jpg)
+}
+.jumbotron-4{
+    /* background-image: url(droop.jpg)repeat repeat center; */
+
+}
+.container{
+    text-align: left;
+    border-left: 5px solid pink;
+    margin-left: 3rem;
+    margin-top: 5rem;
+    line-height: 50px;
+    padding-left: 2rem;
+    
+    font-family: 'Anton', sans-serif;
+}
+#both{
+    line-height: 15px;
+    color: white;
+    animation-timing-function: 4s;
+}
+
+.btn-projects{
+    background-color:pink;
+    border-color: white;
+    border-left: 0px; 
+    transform: translate(0px, 0px);
+    opacity: 1px;
+    color: black;
+}
+.btn-projects:hover{
+    color: blue;
+}
+
+.home__social{
+    display: inline-block;
+    cursor: pointer;
+    visibility: visible;
+    margin-left: 5rem;
+    margin-top: 5rem;
+    line-height: 3rem;
+    color: white;
+    size: 10rem;
+}
+
+}
+.hello-me{
+    animation-duration: 5s;
+}
+.kele-22{
+    animation-duration: 5s;
+}
+.social-icons{
+    animation-duration: 5s;
+}
